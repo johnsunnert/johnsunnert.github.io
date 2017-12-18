@@ -42,7 +42,7 @@
     background-color: white;
     align-items: center;
     justify-content: center;
-    background-color: #ff334c;
+    background-color: #665743;
   }
 
   .flex-item {
@@ -50,16 +50,9 @@
   }
   .title {
     font-family: 'Ubuntu', sans-serif;
-    font-size:6em;
-    color: white;
-    text-align: center;
-  }
-  .description {
-    font-family: 'Lato', sans-serif;
     font-size:4em;
     color: white;
     text-align: center;
-    margin-bottom: 4em;
   }
 
   </style>
@@ -71,7 +64,6 @@
   <div class="flex-container">
     <div class="flex-item">
       <h1 class="title">John Sunnert Kjerstadius</h1>
-      <p class="description"><strong>City bikes + Malmö by bike</strong> @ <strong>Clear Channel</strong></p>
     </div>
   </div>
 
